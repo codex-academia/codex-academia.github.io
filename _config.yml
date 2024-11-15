@@ -1,5 +1,6 @@
 title: Codex Academia
 theme: just-the-docs
+repository: codex-academia/codex-academia.github.io
 
 just_the_docs:
   nav_order: 1
